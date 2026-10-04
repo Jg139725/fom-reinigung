@@ -1,5 +1,11 @@
-FOM Facility Objekt Management – Entwurf 03
+FOM Website – Entwurf 04
 
-Neu: Leistungs-Detailbereich, 3-Schritte-Ablauf, optimierter Kontaktbereich, E-Mail-Formular, Mitarbeiterbereich-Vorschau und zusätzliche Mobile-Optimierung.
+Bereinigte Version:
+- keine Website-Mockups mehr als Hintergrund
+- Hero verwendet nur ein reines Reinigungsfoto
+- jede Dienstleistung hat ein eigenes Bild
+- keine doppelten Texte/Karten
+- responsive Desktop-/Tablet-/Mobil-Layout
+- Mitarbeiterbereich nur vorbereitet, noch ohne Login
 
-Upload: Inhalt dieses Ordners in das GitHub-Repository fom-reinigung hochladen/ersetzen.
+Upload: Inhalt dieses Ordners in das GitHub-Repository fom-reinigung hochladen und bestehende Dateien ersetzen.
